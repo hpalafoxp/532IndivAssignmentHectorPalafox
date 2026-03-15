@@ -1,4 +1,4 @@
 shiny
 tidyverse
-ggplot
+ggplot2
 scales
