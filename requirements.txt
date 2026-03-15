@@ -1,4 +1,0 @@
-shiny
-tidyverse
-ggplot2
-scales
