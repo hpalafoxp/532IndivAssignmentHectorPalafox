@@ -22,7 +22,7 @@ The app currently includes:
 
 ### Try it yourself
 
-Stable app: [https://connect.posit.cloud/hpalafoxp/content/019cef6b-b408-6bcf-2b2c-c3c913a316ec](https://connect.posit.cloud/hpalafoxp/content/019cef6b-b408-6bcf-2b2c-c3c913a316ec)
+Stable app: [https://019c9895-4ca7-509b-005a-24f784953ff2.share.connect.posit.cloud/](https://019c9895-4ca7-509b-005a-24f784953ff2.share.connect.posit.cloud/)
 
 ### Demo
 
