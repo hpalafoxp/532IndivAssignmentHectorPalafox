@@ -1,11 +1,11 @@
 library(shiny)
 
 ui <- fluidPage(
-  titlePanel("Blank Shiny App"),
-  p("Your app is live.")
+   # Your UI code here
 )
 
-server <- function(input, output, session) {
+server <- function(input, output) {
+   # Your server code here
 }
 
 shinyApp(ui = ui, server = server)
